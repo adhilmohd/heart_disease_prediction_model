@@ -1,5 +1,5 @@
 
-Build a Heart Disease Prediction Model \n
+Build a Heart Disease Prediction Model  
 Author: Adhil Muhammed
 ---
 ![](https://nextwork.ai/adhil-muhammed/uploads/86fdf6d0-ebb6-4049-a54b-ba10db950a5f_vqfi3stj)
