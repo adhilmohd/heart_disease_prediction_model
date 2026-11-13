@@ -3,7 +3,7 @@ Build a Heart Disease Prediction Model
 Author: Adhil Muhammed
 ---
 ![](https://nextwork.ai/adhil-muhammed/uploads/86fdf6d0-ebb6-4049-a54b-ba10db950a5f_vqfi3stj)
-Project Overview
+Project Overview  
 Goals and motivation
 Heart disease is the leading cause of death worldwide. Doctors already use clinical measurements like blood pressure, cholesterol, and heart rate to assess risk, but what if a computer could learn from hundreds of real patient records to predict heart disease automatically?
 In this project, i will build a machine learning model that predicts whether a patient has heart disease based on real clinical data from 303 patients.
