@@ -4,22 +4,22 @@ Author: Adhil Muhammed
 ---
 ![](https://nextwork.ai/adhil-muhammed/uploads/86fdf6d0-ebb6-4049-a54b-ba10db950a5f_vqfi3stj)
 Project Overview  
-Goals and motivation
-Heart disease is the leading cause of death worldwide. Doctors already use clinical measurements like blood pressure, cholesterol, and heart rate to assess risk, but what if a computer could learn from hundreds of real patient records to predict heart disease automatically?
+Goals and motivation  
+Heart disease is the leading cause of death worldwide. Doctors already use clinical measurements like blood pressure, cholesterol, and heart rate to assess risk, but what if a computer could learn from hundreds of real patient records to predict heart disease automatically?  
 In this project, i will build a machine learning model that predicts whether a patient has heart disease based on real clinical data from 303 patients.
-I am going to build , A complete ML pipeline that loads real patient data, visualizes it, preprocesses it, trains two classifiers, evaluates them with cross-validation, and exports the best model as a file ready for API integration.
-Setting Up the Environment
-Step goals
+I am going to build , A complete ML pipeline that loads real patient data, visualizes it, preprocesses it, trains two classifiers, evaluates them with cross-validation, and exports the best model as a file ready for API integration.  
+Setting Up the Environment:    
+Step goals  
 In this step, I'm setting up a new notebook in google collab as it comes with popular data science libraries pre-installed in it. I verified all required libraries are there in it and understood the dataset that i would be working with it
 ![Setting Up the Environment](https://nextwork.ai/adhil-muhammed/uploads/86fdf6d0-ebb6-4049-a54b-ba10db950a5f_wzkezqdv)
-Libraries and their roles
+Libraries and their roles:  
 I imported pandas,numpy, matplotlib, seaborn, scikit-learn and joblib.
 pandas loads and manipulates tabular data (your patient dataset).
 numpy handles numerical operations under the hood.
 matplotlib and seaborn create visualizations like distribution plots and heatmaps.
 sklearn (scikit-learn) provides the machine learning tools: splitting data, scaling features, training models, and evaluating results.
-joblib saves your trained model to a file so it can be loaded later.
-Loading and Exploring Real Clinical Data
+joblib saves your trained model to a file so it can be loaded later.  
+Loading and Exploring Real Clinical Data:  
 Step goals
 In this step, I am loading the UCI Cleveland Heart Disease dataset, check it for missing values, and create visualizations that reveal which features relate most to heart disease.
 Binarizing the target variable
