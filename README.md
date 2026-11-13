@@ -1,6 +1,5 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://nextwork.ai/static/nextwork-logo-paper.svg" /><img src="https://nextwork.ai/static/nextwork-logo-leather.svg" 
+
 Build a Heart Disease Prediction Model
-Project Link: View Project
 Author: Adhil Muhammed
 ---
 ![](https://nextwork.ai/adhil-muhammed/uploads/86fdf6d0-ebb6-4049-a54b-ba10db950a5f_vqfi3stj)
